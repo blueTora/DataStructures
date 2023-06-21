@@ -1,5 +1,5 @@
 ### The Missing Tree
 
-![the question](quesion.png)
+![the question](question.png)
 
 In this question I implemented the inOrderTree function.

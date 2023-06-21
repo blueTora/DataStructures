@@ -1,3 +1,3 @@
 ### Prune It
 
-![the question](quesion.png)
+![the question](question.png)
